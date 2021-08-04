@@ -15,6 +15,9 @@ This system detects whether the review entered is positive or negative.
 # Link to the Video Demonstration
 [Video Demo of the system that detects whether the review is positive or negative](https://drive.google.com/drive/folders/1QKkSs6AmZDV-cw0BTR1IlYDIyqm_r9c8?usp=sharing)
 
+# Link for feedback
+(https://drive.google.com/file/d/1PTZPQ2dl34ohz-MgPsL1emUh7DttlSYI/view?usp=sharing)
+
 # Libraries Used
 * Tensorflow
 * Keras
